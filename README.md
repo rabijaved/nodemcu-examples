@@ -1,5 +1,5 @@
-# NodeMCU Examples
+# NodeMCU Examples for IOT 
 
 NodeMCU examples 
-1) WiFi Programming
-2) Interfacing with Gbridge API
+101) Connecting to WiFi and creating an interactable web interface
+102) Interfacing with Gbridge API to enable voice control
